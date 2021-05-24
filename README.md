@@ -4,6 +4,6 @@
 
 # ✨ Tech Stack ✨
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Python&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Python&logoColor=white"/> 
-&nbsp; <img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=Python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=Python&logoColor=white"/>
+&nbsp; <img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat-square&logo=Python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/GNU Bash-4EAA25?style=flat-square&logo=Python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=Python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/PowerShell-007396?style=flat-square&logo=Python&logoColor=white"/>
 
 
