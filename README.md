@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://github.com/HyeonBell/hyeonbell/blob/main/hyeonbell.svg">
+<img src="https://github.com/HyeonBell/hyeonbell/blob/main/hyeonbell_info.svg">
 </p>
 <br></br>
 <br></br>
