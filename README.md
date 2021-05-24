@@ -2,8 +2,7 @@
 0x0x0000x0x000x000x0x00x00x0 Hello There! 0x0x0000x0x000x000x0x00x00x0
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-![HitCount](http://hits.dwyl.com/hyeonbell/hyeonbell.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonBell%2Fhyeonbell&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Tech
 Programming <br></br>
