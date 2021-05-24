@@ -14,7 +14,7 @@ Platforms <br></br>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=Kali%20Linux&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp;
 
 Reverse Enginnering Skill
-<img src="https://img.shields.io/badge/Android-3DDc84?style=flat-square&logo=Android&logoColor=black"/> &nbsp;
+<img src="https://img.shields.io/badge/Android-3DDc84?style=flat-square&logo=Android&logoColor=black&Color=black"/> &nbsp;
 
 
 # Tool
