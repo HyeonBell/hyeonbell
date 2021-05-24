@@ -1,5 +1,4 @@
 <br></br>
-<br></br>
 
 <p align="center">
 <img src="https://github.com/HyeonBell/hyeonbell/blob/main/hyeonbell.svg">
