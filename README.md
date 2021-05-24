@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://github.com/HyeonBell/hyeonbell/blob/main/hyeonbell.svg">
 </p>
-<img src="https://github.com/HyeonBell/hyeonbell/blob/main/hyeonbell_info.svg">
+<img src="https://github.com/HyeonBell/hyeonbell/blob/main/HyeonBell_info.svg">
 <br></br>
 <br></br>
 
