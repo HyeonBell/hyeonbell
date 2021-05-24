@@ -1,7 +1,9 @@
 <p align="center">
 0x0x0000x0x000x000x0x00x00x0 Hello There! 0x0x0000x0x000x000x0x00x00x0
 </p>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+# Tech Stack
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp; <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
