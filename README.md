@@ -1,4 +1,4 @@
-<img src="https://github.com/HyeonBell/hyeonbell/blob/main/hyeonbell.svg">
+<img src="https://github.com/HyeonBell/hyeonbell/blob/main/hyeonbel2l.svg">
 
 # Tech
 Programming <br></br>
