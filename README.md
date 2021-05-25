@@ -27,8 +27,7 @@ Reverse Enginnering Skill <br></br>
 <br></br>
 
 ## Contact
-
-
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonbells@gmail.com)](mailto:hyeonbells@gmail.com)
 
 
 
