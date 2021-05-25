@@ -12,6 +12,6 @@ Reverse Enginnering Skill <br></br>
 ## Tool
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/> 
 
-## Contact 	:open_hands:
+## :open_hands:Contact 	
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonbells@gmail.com)](mailto:hyeonbells@gmail.com)
 
